@@ -1,2 +1,0 @@
-# jihanggela.f
-confess
